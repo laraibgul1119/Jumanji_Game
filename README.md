@@ -1,4 +1,4 @@
-
+<div align ="center">
 # 🐒 JUMANJI — The Board Game
 
 *A game for those who seek to find a way to leave their world behind...*
