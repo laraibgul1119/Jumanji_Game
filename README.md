@@ -11,9 +11,11 @@
 </div>
 
 ---
+<div align="center">
 <img width="800" height="459" alt="Jumanji" src="https://github.com/user-attachments/assets/84393f81-3f3a-43d0-980a-3509ae0c402a" />
-## 📖 About
+</div>
 
+## 📖 About
 **Jumanji** is a fully interactive, browser-based digital adaptation of the classic Jumanji board game. Built with React, TypeScript, and Vite, it brings the iconic jungle adventure to life with:
 
 - 🎨 A beautifully hand-crafted SVG jungle game board
