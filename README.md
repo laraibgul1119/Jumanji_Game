@@ -4,7 +4,7 @@
 # 🐒 JUMANJI — The Board Game
 
 *A game for those who seek to find a way to leave their world behind...*
-![Demo]()
+
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)
@@ -13,7 +13,8 @@
 </div>
 
 ---
-
+![Demo](<img width="800" height="459" alt="Jumanji" src="https://github.com/user-attachments/assets/84393f81-3f3a-43d0-980a-3509ae0c402a" />
+)
 ## 📖 About
 
 **Jumanji** is a fully interactive, browser-based digital adaptation of the classic Jumanji board game. Built with React, TypeScript, and Vite, it brings the iconic jungle adventure to life with:
