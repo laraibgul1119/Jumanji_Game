@@ -1,5 +1,5 @@
 <div align ="center">
-# 🐒 JUMANJI — The Board Game
+ <h1>🐒 JUMANJI — The Board Game </h1>
 
 *A game for those who seek to find a way to leave their world behind...*
 
